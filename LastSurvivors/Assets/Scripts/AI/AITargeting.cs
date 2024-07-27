@@ -5,10 +5,10 @@ using UnityEngine;
 public class AITargeting : MonoBehaviour
 {
 
-    public void OnCollisionEnter(Collision collision)
+    private void OnCollisionEnter(Collision collision)
     {
         Debug.Log("Trigggggger: " + collision.gameObject);
-        if (collision.gameObject.GetComponent<Player.MoveController>() == true)
+        if (collision.gameObject.GetComponent<AI.AIStatsInfo>() == true)
         {
             Debug.Log("Targeting");
         }
