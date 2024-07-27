@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638576248984295021
-    m_Hash: 3219397261
+      ticks: 638577069432518899
+    m_Hash: 545731776
   m_LockFileStatus:
     m_FilePath: C:/Users/artem/Documents/GitHub/LastSurvivors/LastSurvivors/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638576248984340611
-    m_Hash: 3648541768
+      ticks: 638577069432533920
+    m_Hash: 2038635372
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
